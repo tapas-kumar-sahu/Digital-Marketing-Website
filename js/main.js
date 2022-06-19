@@ -7,7 +7,6 @@ window.addEventListener("scroll",()=>{
     }else{
         nav.classList.remove("header-scrolled");
     }
-    // console.dir(document.documentElement.scrollTop);
 })
 
 // nav hide
@@ -43,5 +42,4 @@ $(document).ready(function() {
     });
 });
 
-// project counter
 
